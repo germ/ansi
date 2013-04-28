@@ -1,4 +1,5 @@
 ansi: Escape codes for human beings
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 Ever have a command line utility that needed that
